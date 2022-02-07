@@ -13,7 +13,7 @@
 		<nav class="navbar navbar-expand-md navbar-dark" 
 			style="background-color: tomato">
 			<div>
-				<a href="#" class="navbar-brand">User Management App</a>
+				<a href="https://www.javaguides.net/2019/03/jsp-servlet-jdbc-mysql-crud-example-tutorial.html" class="navbar-brand">User Management App</a>
 			</div>
 			
 			<ul class="navbar-nav">
